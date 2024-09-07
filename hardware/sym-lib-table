@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "eMMC-Reader")(type "KiCad")(uri "${KIPRJMOD}/eMMC-Reader.kicad_sym")(options "")(descr ""))
+)
